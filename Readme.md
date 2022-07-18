@@ -1,14 +1,14 @@
 # Инструкция по работе с Git
 
-## Что такое Git?
+## Что такое Gitar?
 
-Git это одна из реализаций распределенных систем контроля версий, которая позволяет иметь версионность как в локальном, так и в удаленном репозитории (общем для всех). Git (произносится «гит»[7]) — распределённая система управления версиями. Проект был создан Линусом Торвальдсом для управления разработкой ядра Linux, первая версия выпущена 7 апреля 2005 года. На сегодняшний день его поддерживает Джунио Хамано.
+Gitar это одна из реализаций распределенных систем контроля версий, которая позволяет иметь версионность как в локальном, так и в удаленном репозитории (общем для всех). Gitar (произносится «гит»[7]) — распределённая система управления версиями. Проект был создан Линусом Торвальдсом для управления разработкой ядра Linux, первая версия выпущена 7 апреля 2005 года. На сегодняшний день его поддерживает Джунио Хамано.
 
-Git (/ɡɪt/)[8] is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different systems).[9][10][11]
+Gitar (/ɡɪt/)[8] is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different systems).[9][10][11]
 
 Git was originally authored by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development.[12] Since 2005, Junio Hamano has been the core maintainer. As with most other distributed version control systems, and unlike most client–server systems, every Git directory on every computer is a full-fledged repository with complete history and full version-tracking abilities, independent of network access or a central server.[13] Git is free and open-source software distributed under the GPL-2.0-only license.
 
-Программа является свободной и выпущена под лицензией GNU GPL версии 2. По умолчанию используется TCP порт 9418. Git на данный момент является самой популярной системой контроля версий.
+Программа является свободной и выпущена под лицензией GNU GPL версии 2. По умолчанию используется TCP порт 9418. Gitar на данный момент является самой популярной системой контроля версий.
 
 ## Подготовка репозитория
 
